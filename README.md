@@ -6,7 +6,7 @@
 **Programa:** Maestría en Ciencias e Ingeniería Estadística — Universidad Nacional de Ingeniería  
 **ORCID:** 0009-0007-0702-6958
 
-[![Abrir en Google Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jantoniootoya/Prob1/blob/main/Proyecto_Final_Distance_Sampling_Colab.ipynb)
+[![Abrir en Google Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jantoniootoya/Prob1/blob/main/ProyectoFinalOTOYA.ipynb)
 
 Este repositorio contiene el proyecto final de Probabilidades e Inferencia Estadística desarrollado íntegramente en **Python** y preparado para ejecutarse en **Google Colab**.
 
