@@ -6,7 +6,7 @@
 **Programa:** Maestría en Ciencias e Ingeniería Estadística — Universidad Nacional de Ingeniería  
 **ORCID:** 0009-0007-0702-6958
 
-[![Abrir en Google Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jantoniootoya/Probabilidades1/blob/main/Proyecto_Final_Distance_Sampling_Colab.ipynb)
+[![Abrir en Google Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jantoniootoya/Prob1/blob/main/Proyecto_Final_Distance_Sampling_Colab.ipynb)
 
 Este repositorio contiene el proyecto final de Probabilidades e Inferencia Estadística desarrollado íntegramente en **Python** y preparado para ejecutarse en **Google Colab**.
 
@@ -56,7 +56,7 @@ No se utiliza bootstrap.
 
 Una vez que `Proyecto_Final_Distance_Sampling_Colab.ipynb` esté en la rama `main`, usar:
 
-https://colab.research.google.com/github/jantoniootoya/Probabilidades1/blob/main/Proyecto_Final_Distance_Sampling_Colab.ipynb
+https://colab.research.google.com/github/jantoniootoya/Prob1/blob/main/Proyecto_Final_Distance_Sampling_Colab.ipynb
 
 También puede abrirse desde Colab seleccionando:
 
@@ -64,7 +64,7 @@ También puede abrirse desde Colab seleccionando:
 Archivo
 → Abrir cuaderno
 → GitHub
-→ jantoniootoya/Probabilidades1
+→ jantoniootoya/Prob1
 ```
 
 ## Datos
@@ -94,7 +94,7 @@ scipy
 
 ## Repositorio
 
-https://github.com/jantoniootoya/Probabilidades1
+https://github.com/jantoniootoya/Prob1
 
 ## Autor
 
