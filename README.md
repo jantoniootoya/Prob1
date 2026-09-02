@@ -12,7 +12,7 @@ Este repositorio contiene el proyecto final de Probabilidades e Inferencia Estad
 
 ## Cuaderno principal
 
-`Proyecto_Final_Distance_Sampling_Colab.ipynb`
+`ProyectoFinalOtoya.ipynb`
 
 El notebook descarga automáticamente:
 
