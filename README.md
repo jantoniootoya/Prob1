@@ -56,7 +56,7 @@ No se utiliza bootstrap.
 
 Una vez que `Proyecto_Final_Distance_Sampling_Colab.ipynb` esté en la rama `main`, usar:
 
-https://colab.research.google.com/github/jantoniootoya/Prob1/blob/main/Proyecto_Final_Distance_Sampling_Colab.ipynb
+https://colab.research.google.com/github/jantoniootoya/Prob1/blob/main/ProyectoFinalOtoya.ipynb
 
 También puede abrirse desde Colab seleccionando:
 
